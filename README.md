@@ -26,6 +26,8 @@ Here's a quick example of how to use Code Run Timer:
 
 ### create new algorithm
 ```java
+import io.github.iae666b.Algorithm;
+
 public class Sun100 extends Algorithm {
     public void execute() {
         int sum = 0;
