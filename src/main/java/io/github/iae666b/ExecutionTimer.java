@@ -11,6 +11,9 @@ public class ExecutionTimer {
         long start = System.currentTimeMillis();
         algorithm.execute();
         long end = System.currentTimeMillis();
-        return end - start;
+        
+        long elapsedTime = end - start;
+        System.out.println("Execution time: " + elapsedTime + " ms");
+        return elapsedTime;
     }
 }
