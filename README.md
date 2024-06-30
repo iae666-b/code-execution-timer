@@ -14,8 +14,8 @@ Add the following dependency to your `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>io.github.iae666b</groupId>
-    <artifactId>code-run-timer</artifactId>
+    <groupId>io.github.iae666-b</groupId>
+    <artifactId>code-execution-timer</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
