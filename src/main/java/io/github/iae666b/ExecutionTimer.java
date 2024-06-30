@@ -1,5 +1,8 @@
 package io.github.iae666b;
 
+/**
+ * The core class for calculating the running time of a specific algorithm.
+ */
 public class ExecutionTimer {
     /**
      * Returns the execution time of algorithms in milliseconds.
